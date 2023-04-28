@@ -7,7 +7,7 @@ A year ago, a friend of mine shared with us an idea he has been trying to do, ma
 My friend is an electrical engineer that works at Nvidia, so he was in-charge of the hardware part of the project, and I handled anything software related. A third friend was in-charge of marketting.
 
 ## What did this turn to after some months software-wise? :office_worker:
-A mobile application that lets you control devices inside houses/workplaces, no matter what their type is or how many modes the device have, all in real-time, and you can manage who can/can't do so.
+A mobile application, for iOS & Android, that lets you control devices inside houses/workplaces, no matter what their type is or how many modes the device have, all in real-time, and you can manage who can/can't do so.
 
 * ***A pool***? It is your home/workplace, each pool has its' own devices, its' own members.
 + ***Pool Members***? each pool have at least one member, each member has a rank (***Guest/Admin/Owner***), the higher rank you are, the more privilleges you get in the pool, for example an admin can invite/remove members.
