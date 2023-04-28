@@ -2,7 +2,7 @@
 
 ## The Really Short Story Behind :boom:
 
-A year ago, a friend of mine shared with us an idea of he has been trying to bring to reality, making every house in our village smarter, bringing in self-awareness, and scalability and all other good stuff in the picture, managing your home anywhere, anytime and determine who exactly can/can't do so with you; We decided to go on and do this as friends, getting this bigger and maybe get some money out of it later on.
+A year ago, a friend of mine shared with us an idea he has been trying to do, making every house in our village smarter; add to that self-awareness, and scalability and all other good stuff in the picture, managing your home anywhere, anytime and determine who exactly can/can't do so with you; We decided to go on and do this as friends, getting this bigger and maybe get some money out of it later on.
 
 My friend is an electrical engineer that works at Nvidia, so he was in-charge of the hardware part of the project, and I handled anything software related. A third friend was in-charge of marketting.
 
