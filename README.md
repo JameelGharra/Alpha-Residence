@@ -14,6 +14,7 @@ A mobile application, for iOS & Android, that lets you control devices inside ho
 - An ***app user***? each user has his own credentials (email and password), the email has to be verified before using the app, a user sees only the pools he is a pool member in.
 * ***A pool device***? For e.g. an air conditioner that has a hidden camera has two modes, mode 1 is conditioning (includes data about temperature, fan level, heat/cold so on) and the second mode is camera (focus, resolution and so on) and both modes can be controlled inside the dashboard on the app, a device can have endless amount of modes.
 
+
 ## How some things work? :factory_worker:	
 
 ### > Device Building Process
@@ -34,5 +35,25 @@ A mobile application, for iOS & Android, that lets you control devices inside ho
 *Navigation is using the BloC design pattern, seperating the business logic from presentation, facilitating testability and reusability.
 if a BloC listener is a root of some sub-tree in the widget tree it will recieve any updated state, a BloC consumer is a BloC builder and a 
 BloC listener, a bloC builder returns a widget depending on the new state emitted.*
+
+## Showcase :cinema:
+
+*The screen the user gets if he is not logged-in when he launches the application (if he was logged in and logs out he won't get this screen, he would be back to the authentication page)*\
+![Intro_AdobeExpress](https://user-images.githubusercontent.com/26360846/235312183-f554a023-5293-4f61-ba60-72030336557d.gif)\
+*An actual user perform a login in the app, his email was verified.*\
+![Logging_In_AdobeExpress](https://user-images.githubusercontent.com/26360846/235312525-fcc623d9-50c7-4964-8e33-0724cff500b1.gif)\
+*In the left a web app version of the application, with a user with an email of (vancehitch@gmail.com), on the right an Android version of the app with a user with the email of (jameelgharra@gmail.com), both users are pool members inside "Jameel's Beach Mansion", this showcases how quickly the data changed in real-time.*
+
+
+https://user-images.githubusercontent.com/26360846/235316161-ffaa07f0-22e6-40d0-b49e-8eb4fc234d58.mp4\
+
+
+
+
+*The user with the email of (jameelgharra@gmail.com) has the authority to invite in the pool of "Jameel's Beach Mansion", the invitation is to a user with an email of (vancehitch@gmail.com), gets invited and the pool shows in real-time, members list was checked, after a few seconds, some other user changed (vancehitch@gmail.com)'s rank to admin (two red stars).*\
+
+
+https://user-images.githubusercontent.com/26360846/235316282-1f338a11-1d49-4daf-aecc-7f4ed97eadcf.mp4
+
 
 
