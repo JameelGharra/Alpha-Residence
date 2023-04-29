@@ -1,5 +1,14 @@
 # Alpha Residence Initiative
 
+## Index
+* [App Showcase](https://github.com/JameelGharra/Alpha-Residence#showcase-cinema)
++ [How some things work?](https://github.com/JameelGharra/Alpha-Residence#how-some-things-work-factory_worker)
+  - [Device Building Process]()
+  - [Example of listening to pool member changes: an admin kick a member whose online](https://github.com/JameelGharra/Alpha-Residence#-an-example-of-listening-to-poolmember-changes-an-admin-kicking-a-member-whose-online-controlling-devices-in-that-pool)
+  - [State Management for Authentication: BloC pattern](https://github.com/JameelGharra/Alpha-Residence#-state-management-for-authentication-bloc-pattern)
+* [The Really Short Story Behind](https://github.com/JameelGharra/Alpha-Residence#the-really-short-story-behind-boom)
+* [What did this turn to in some months?](https://github.com/JameelGharra/Alpha-Residence#what-did-this-turn-to-after-some-months-software-wise-office_worker)
+
 ## The Really Short Story Behind :boom:
 
 A year ago, a friend of mine shared with us an idea he has been trying to do, making every house in our village smarter; add to that self-awareness, and scalability and all other good stuff in the picture, managing your home anywhere, anytime and determine who exactly can/can't do so with you; We decided to go on and do this as friends, getting this bigger and maybe get some money out of it later on.
