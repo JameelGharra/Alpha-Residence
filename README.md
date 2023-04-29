@@ -3,7 +3,7 @@
 ## Index
 * [App Showcase](https://github.com/JameelGharra/Alpha-Residence#showcase-cinema)
 + [How some things work?](https://github.com/JameelGharra/Alpha-Residence#how-some-things-work-factory_worker)
-  - [Device Building Process]()
+  - [Device Building Process](https://github.com/JameelGharra/Alpha-Residence#-device-building-process)
   - [Example of listening to pool member changes: an admin kick a member whose online](https://github.com/JameelGharra/Alpha-Residence#-an-example-of-listening-to-poolmember-changes-an-admin-kicking-a-member-whose-online-controlling-devices-in-that-pool)
   - [State Management for Authentication: BloC pattern](https://github.com/JameelGharra/Alpha-Residence#-state-management-for-authentication-bloc-pattern)
 * [The Really Short Story Behind](https://github.com/JameelGharra/Alpha-Residence#the-really-short-story-behind-boom)
