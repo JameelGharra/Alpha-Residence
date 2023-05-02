@@ -51,6 +51,11 @@ BloC listener, a bloC builder returns a widget depending on the new state emitte
 ![Intro_AdobeExpress](https://user-images.githubusercontent.com/26360846/235312183-f554a023-5293-4f61-ba60-72030336557d.gif)\
 *An actual user perform a login in the app, his email was verified.*\
 ![Logging_In_AdobeExpress](https://user-images.githubusercontent.com/26360846/235312525-fcc623d9-50c7-4964-8e33-0724cff500b1.gif)\
+
+*Setting a member's rank then removing off pool in real-time.*\
+![8911a2af39694c85c1512444a672ba4b_AdobeExpress](https://user-images.githubusercontent.com/26360846/235743040-02adcda6-5ce6-4ea8-94ff-76cbec741abb.gif)\
+
+
 *In the left a web app version of the application, with a user with an email of (vancehitch@gmail.com), on the right an Android version of the app with a user with the email of (jameelgharra@gmail.com), both users are pool members inside "Jameel's Beach Mansion", this showcases how quickly the data changed in real-time.*
 
 
